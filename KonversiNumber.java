@@ -8,5 +8,12 @@ public class KonversiNumber {
         double iniDouble = iniFloat;
 
         float iniFloat2 = (float) iniDouble;
+
+        char y = 'Y';
+        char b = 'B';
+
+        System.out.print(b);
+        System.out.print(y);
+
     }
 }
