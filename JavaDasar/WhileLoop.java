@@ -1,3 +1,5 @@
+package JavaDasar;
+
 public class WhileLoop {
     public static void main(String[] args) {
         var counter = 1;

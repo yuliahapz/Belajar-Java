@@ -1,3 +1,5 @@
+package JavaDasar;
+
 public class TipeDataCharacter {
     public static void main(String[] args) {
         boolean benar = true;

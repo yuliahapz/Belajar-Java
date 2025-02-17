@@ -1,3 +1,5 @@
+package JavaDasar;
+
 public class OperasiBoolean {
     public static void main(String[] args) {
         var absen = 70;

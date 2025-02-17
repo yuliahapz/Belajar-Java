@@ -1,3 +1,5 @@
+package JavaDasar;
+
 public class TernaryOperator {
     public static void main(String[] args) {
         var nilai = 75;

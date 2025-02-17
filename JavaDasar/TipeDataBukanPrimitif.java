@@ -1,3 +1,5 @@
+package JavaDasar;
+
 public class TipeDataBukanPrimitif {
     public static void main(String[] args) {
         Integer iniInteger = 100;

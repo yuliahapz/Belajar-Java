@@ -1,3 +1,5 @@
+package JavaDasar;
+
 public class Scope {
     public static void main(String[] args) {
        sayHello ("Yuli");

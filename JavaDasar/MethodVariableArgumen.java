@@ -1,3 +1,5 @@
+package JavaDasar;
+
 public class MethodVariableArgumen {
     public static void main(String[] args) {
     int[] values = {80, 80, 80, 80, 80};
