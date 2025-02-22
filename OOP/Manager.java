@@ -1,7 +1,16 @@
 package OOP;
 
-class Manager { //inheritance deklarasi manager
-    String name;
+class Manager extends Employee{ //inheritance deklarasi manager
+    String company;
+
+    Manager(String name) {
+        super(name);
+    }
+
+    Manager(String name, String company){
+        super(name);
+        this.company = company;
+    }
     void sayHello(String name){
         System.out.println("Hi " + name +", My Name is Manager " + this.name);
     }
